@@ -3,7 +3,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Enlarging Cards]                                                                                                           | [Live Demo](https://balajin96.github.io/wave-form-login/)               |
+| 01  | [wave form login]                                                                                                           | [Live Demo](https://balajin96.github.io/wave-form-login/)               |
 
 I took it as a challenge from 50projects50days course (wave form) by Bradtraversy, I recreated and implemented few styles in it. 
 
