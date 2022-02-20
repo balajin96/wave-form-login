@@ -65,6 +65,7 @@ transition: color	0.2s;
 }
 .fa-brands:hover{
 	color: #38d74f;
+	transform: scale(0.98);
 }
 .login-page {
   position: relative;
